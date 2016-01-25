@@ -1,7 +1,7 @@
 ### Git-GitHub Training
 
 ### Members
- - Meng Fang
+ - Meng Fang meng.fang@autodesk.com
  - YuanYuang Zhang
  - Hou Tao
  - William Hoang

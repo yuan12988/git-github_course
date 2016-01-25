@@ -1,7 +1,7 @@
 ### Git-GitHub Training
 
 ### Members
- - Meng Wang
+ - Meng Fang
  - YuanYuang Zhang
  - Hou Tao
  - William Hoang

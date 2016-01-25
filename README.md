@@ -4,7 +4,7 @@
  - Meng Fang: meng.fang@autodesk.com
  - YuanYuan Zhang: yuanyuan.zhang@autodesk.com
  - Hou Tao tao.hou@autodesk.com
- - Qinming Ren:  magicren@hotmail.com
+ - Qinming Ren:  qinming.ren@autodesk.com
  - William Hoang: william.sun.hoang@gmail.com
  - Lingchun Li: lingchun.li@autodesk.com
  

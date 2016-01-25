@@ -2,7 +2,7 @@
 
 ### Members
  - Meng Fang meng.fang@autodesk.com
- - YuanYuang Zhang
+ - YuanYuan Zhang yuanyuan.zhang@autodesk.com
  - Hou Tao
  - William Hoang
  

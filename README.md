@@ -7,4 +7,5 @@
  - Qinming Ren:  magicren@hotmail.com
  - William Hoang: william.sun.hoang@gmail.com
 
-State Name: Flora
+State Name: Florida
+Population: 19.89 million (2014)

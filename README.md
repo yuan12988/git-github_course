@@ -8,4 +8,6 @@
  - Lingchun Li: lingchun.li@autodesk.com
  - William Hoang: william.sun.hoang@gmail.com
  
+State Name: Florida
+Latitude/Longitude: 30.4550N, 84.2533W (Tallahassee)
  

@@ -1,11 +1,11 @@
 ### Git-GitHub Training
 
 ### Members
- - Meng Fang: meng.fang@autodesk.com
- - YuanYuan Zhang: yuanyuan.zhang@autodesk.com
- - Hou Tao tao.hou@autodesk.com
- - Qinming Ren:  qinming.ren@autodesk.com
- - Lingchun Li: lingchun.li@autodesk.com
- - William Hoang: william.sun.hoang@gmail.com
+ - Meng Fang: meng.fang@autodesk.come
+ - YuanYuan Zhang: yuanyuan.zhang@autodesk.come
+ - Hou Tao tao.hou@autodesk.come
+ - Qinming Ren:  qinming.ren@autodesk.come
+ - Lingchun Li: lingchun.li@autodesk.come
+ - William Hoang: william.sun.hoang@gmail.come
  
  

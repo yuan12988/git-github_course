@@ -6,4 +6,6 @@
  - Hou Tao tao.hou@autodesk.com
  - Qinming Ren:  magicren@hotmail.com
  - William Hoang: william.sun.hoang@gmail.com
+
+### Second Lessons - Try how to create branch and merge
  

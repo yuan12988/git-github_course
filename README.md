@@ -7,6 +7,8 @@
  - Qinming Ren:  magicren@hotmail.com
  - William Hoang: william.sun.hoang@gmail.com
  - Lingchun Li: lingchun.li@autodesk.com
+
+some conflicts
  
  Lingchun : Make a conflict
  

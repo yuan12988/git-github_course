@@ -8,10 +8,11 @@
  - William Hoang: william.sun.hoang@gmail.com
 
 
+###States
 State Name: Florida
-Population: 19.89 million (2014) 
-Latitude/Longitude: 30.4550N, 84.2533W (Tallahassee)
+ - Population: 19.89 million (2014) 
+ - Latitude/Longitude: 30.4550N, 84.2533W (Tallahassee)
  
 
 State Name: Hubei Province 
-Population: 40.0 million
+ - Population: 40.0 million
